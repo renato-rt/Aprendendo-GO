@@ -8,4 +8,3 @@ import (
 func main() {
 	fmt.Println("Escrevendo do Arquivo main")
 	auxiliar.Escrever()
-}
