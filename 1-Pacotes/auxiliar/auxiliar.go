@@ -1,8 +1,6 @@
 package auxiliar
 
-import (
-	"fmt"
-)
+import "fmt"
 
 //Escrever digita uma mensagem na tela
 func Escrever() {
